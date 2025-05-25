@@ -10,10 +10,10 @@ Este proyecto es una aplicación **monolítica** desarrollada con **Spring Boot*
 - Java 21
 - Spring Boot
 - Spring Data JPA
-- Base de datos: PostgreSQL / MySQL
+- Base de datos: MySQL
 - Maven
 - GitHub
-- Frontend básico (HTML, CSS, JS)
+- Frontend (HTML, CSS, JS)
 
 ---
 
@@ -94,7 +94,7 @@ src/main/java/com/Agencia/reservas
 
 ## 🌐 Frontend
 
-Interfaz simple con:
+Interfaz con:
 
 - Cabecera: `"Bienvenido a Mi Agencia"`
 - Botones:
