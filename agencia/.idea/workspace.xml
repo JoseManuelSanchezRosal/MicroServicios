@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92056809-15b2-4023-979f-32e2371a5d4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/MicroservicioAgenciaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/MicroservicioAgenciaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/controller/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/controller/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/controller/ReservaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/controller/ReservaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/controller/VueloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/controller/VueloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/dto/MessageDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/dto/MessageDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/dto/ReservaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/dto/ReservaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/model/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/model/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/model/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/model/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/model/Vuelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/model/Vuelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/repository/HotelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/repository/HotelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/repository/ReservaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/repository/ReservaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/josemanuel/microservicio_agencia/repository/VueloRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/Agencia/reservas/repository/VueloRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2xbRNs8JGasN2JkcSwDbKgKqOlY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92056809-15b2-4023-979f-32e2371a5d4a" name="Changes" comment="" />
+      <created>1748204751075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748204751075</updated>
+    </task>
+    <servers />
+  </component>
+</project>

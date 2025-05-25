@@ -1,14 +1,13 @@
-package com.josemanuel.microservicio_agencia.controller;
+package com.Agencia.reservas.controller;
 
-import com.josemanuel.microservicio_agencia.dto.MessageDTO;
-import com.josemanuel.microservicio_agencia.model.Vuelo;
-import com.josemanuel.microservicio_agencia.repository.VueloRepository;
+import com.Agencia.reservas.dto.MessageDTO;
+
+import com.Agencia.reservas.model.Vuelo;
+import com.Agencia.reservas.repository.VueloRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
 
 @RestController
 @RequestMapping("/api/vuelos")
@@ -18,7 +17,7 @@ public class VueloController {
     private VueloRepository vueloRepository;
 
     @GetMapping("")
-    public ResponseEntity<List<Vuelo>> getAll() {
+    public Object getAll() {
         return ResponseEntity
                 .ok(this.vueloRepository.findAllByIsAvailable());
     }

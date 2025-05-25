@@ -1,4 +1,4 @@
-package com.josemanuel.microservicio_agencia.model;
+package com.Agencia.reservas.model;
 
 import jakarta.persistence.*;
 

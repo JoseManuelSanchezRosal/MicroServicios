@@ -1,8 +1,8 @@
-package com.josemanuel.microservicio_agencia.controller;
+package com.Agencia.reservas.controller;
 
-import com.josemanuel.microservicio_agencia.dto.MessageDTO;
-import com.josemanuel.microservicio_agencia.model.Hotel;
-import com.josemanuel.microservicio_agencia.repository.HotelRepository;
+import com.Agencia.reservas.dto.MessageDTO;
+import com.Agencia.reservas.model.Hotel;
+import com.Agencia.reservas.repository.HotelRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

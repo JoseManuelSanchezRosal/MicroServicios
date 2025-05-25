@@ -1,4 +1,4 @@
-package com.josemanuel.microservicio_agencia.dto;
+package com.Agencia.reservas.dto;
 
 public record MessageDTO(
         String message

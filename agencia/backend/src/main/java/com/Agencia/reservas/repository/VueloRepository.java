@@ -1,6 +1,6 @@
-package com.josemanuel.microservicio_agencia.repository;
+package com.Agencia.reservas.repository;
 
-import com.josemanuel.microservicio_agencia.model.Vuelo;
+import com.Agencia.reservas.model.Vuelo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

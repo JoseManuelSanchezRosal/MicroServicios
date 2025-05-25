@@ -1,6 +1,6 @@
-package com.josemanuel.microservicio_agencia.repository;
+package com.Agencia.reservas.repository;
 
-import com.josemanuel.microservicio_agencia.model.Reserva;
+import com.Agencia.reservas.model.Reserva;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ReservaRepository extends JpaRepository<Reserva, Long> {}
