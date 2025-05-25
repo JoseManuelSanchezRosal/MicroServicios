@@ -92,7 +92,7 @@ src/main/java/com/Agencia/reservas
 
 ---
 
-## 🌐 Frontend (opcional)
+## 🌐 Frontend
 
 Interfaz simple con:
 
