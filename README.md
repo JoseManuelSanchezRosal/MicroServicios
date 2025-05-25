@@ -132,6 +132,3 @@ Proyecto desarrollado por José Manuel Sánchez Rosal como parte del módulo de 
 
 ---
 
-## ✅ Estado
-
-✅ Proyecto funcional y ejecutable directamente tras clonar y configurar la base de datos.
